@@ -7,6 +7,7 @@
 ## Document Assets and Liabilities:
 - **Inventory Assets:** List all assets, including domain names, content, and intellectual property.
 - **Identify Liabilities:** Disclose any outstanding debts, obligations, or commitments.
+- **Answers for the Buyer:** Try your best to list enough information for the buyer to make them buy confidently.
 
 ## Clean Up and Optimize:
 - **Website Clean-Up:** Address technical issues and outdated content.
